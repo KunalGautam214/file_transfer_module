@@ -7,7 +7,7 @@ git clone https://github.com/KunalGautam214/file_transfer_module.git
 
 # Install the module
 ```
-Project root directory run below command
+Go to project root directory and run below command
 pip install .
 ```
 # Run the module
