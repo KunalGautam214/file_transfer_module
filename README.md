@@ -2,7 +2,7 @@
 
 # Clone repo
 ```
-git clone <repo_name_link>
+git clone https://github.com/KunalGautam214/file_transfer_module.git
 ```
 
 # Install the module
